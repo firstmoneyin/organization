@@ -1,4 +1,4 @@
-# organization
+# FirstMoney.In Organizing Documents
 
 [FirstMoney.In](https://firstmoney.in) (1st$n) is a program for startup founders to apply to experienced startup angel investors on a standard deal of $5,000 in return for 0.2% of your company. It is designed to facilitate access to capital for never-before-funded companies, especially those led by founders who identify as Women, BIPOC, and/or LGBTQ+. All startups are welcome and encouraged to apply.
 

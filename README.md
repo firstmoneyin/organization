@@ -7,3 +7,5 @@ While most venture capital requires founders to sell a large stake to investors,
 The 1st$n program was created by Alan Glennon, PhD (an [angel investor](https://angel.co/glennon)) and Yury Lifshits (CEO [Openland](https://openland.com), YC W18) to discover underrepresented and underestimated founders. In itself, 1st$n does not generate revenue. Alan benefits through his personal investments he makes through the site. Yury benefits from the development of a community of great startup founders at Openland.
 
 The project is being organized in the open at Openland.com in the [Future of Preseed](https://openland.com/invite/FQC3JNW) group.
+
+Angel investors associated with the project are followed by the 1st$n [Twitter account](https://twitter.com/firstmoneyin/following).

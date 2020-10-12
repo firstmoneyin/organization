@@ -1,5 +1,7 @@
 # To do list
-
+  
+Note: This repo uses the GitHub flow for pull requests. For more info, see: https://guides.github.com/introduction/flow/
+  
 * For associates: We need a description of the scout program workflows.  
 * For associates: We need a description of the angel investor workflows.  
 * For organization maintainers: We shouls create a repo for the website and deploy it from there.
